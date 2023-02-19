@@ -1,0 +1,1 @@
+多台EC2使用一個有admin權限的role
